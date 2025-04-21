@@ -3,7 +3,7 @@ A Blender Game Engine 3D Simulation of the entire Town of Auburn, Massachusetts 
 
 ![screenshot_001](src/media/textures/screenshots/001.PNG)
 
-## Requirments:
+## Instructions:
 Download [Blender Game Engine](https://upbge.org/#/download)
 
 We must download Blender Game Engine to use this application.  
