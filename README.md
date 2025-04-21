@@ -18,7 +18,8 @@ Once downloaded, put mouse arrow in the 3D screen and press the letter P on the 
 2. Choose Download ZIP
 3. Save the Zip File
 4. Extract All
-5. Double click the HTML file to start the App
+5. Open Blender Game Engine
+6. File > Open > CATopalian_Python_Blender_Auburn_MA_3D_Simulator.blend
 
 ---
 
